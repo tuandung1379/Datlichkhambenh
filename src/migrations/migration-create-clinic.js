@@ -17,7 +17,7 @@ module.exports = {
             description: {
                 type: Sequelize.TEXT
             },
-            imgage: {
+            image: {
                 type: Sequelize.INTEGER
             },
             createdAt: {
